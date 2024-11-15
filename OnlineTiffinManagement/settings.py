@@ -23,9 +23,9 @@ TEMPLATE_DIR = os.path.join(BASE_DIR,"templates/")
 SECRET_KEY = 'django-insecure-&-dpc*ch(6z2&@j#-rz#pa_!r@!#ow#qn1j#1t=ld4@9zt2$7&'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://dashboard.render.com/web/srv-csrgfdl6l47c73fecgp0/deploys/dep-csrgfdt6l47c73fech10"]
 
 
 # Application definition
